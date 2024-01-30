@@ -1,4 +1,4 @@
-#Project Hoobank
+# Project Hoobank
 Project Hoobank is a web application designed to provide users with banking functionalities in a modern and user-friendly interface.
 
 Features
