@@ -22,7 +22,7 @@ Installation:
 To run the Project Hoobank application locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/adrianhajdin/project_hoobank.git
+git clone 
 
 
 Navigate to the project directory:
