@@ -1,11 +1,7 @@
 # Project Hoobank
 Project Hoobank is a web application designed to provide users with banking functionalities in a modern and user-friendly interface.
 
-Features
-User Authentication: Users can sign up, log in, and securely authenticate themselves to access their accounts.
-Account Management: Users can view their account balance, transaction history, and manage their account details.
-Transfer Funds: Users can transfer funds between their own accounts or to other users securely.
-Bill Payment: Users can pay bills conveniently within the application.
+
 Responsive Design: The application is built with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.
 Technologies Used
 React: A JavaScript library for building user interfaces.
